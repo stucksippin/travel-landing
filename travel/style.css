@@ -1,0 +1,10 @@
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+
+.w3-row-padding{
+    margin:0 -16px 8px -16px;
+}
+
+.pageContent{
+    max-width:2000px;margin-top:46px
+}
